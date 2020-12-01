@@ -1,6 +1,6 @@
 @extends('templates.template')
 @section('content')
-<h1 class="text-center">Bem-vindo!</h1> <hr>
+<h1 class="text-center">Welcome!</h1> <hr>
 
 <center><div class="card text-center border-dark mb-3 w-50">
   <h5 class="card-header bg-transparent">Nossa Equipe</h5>
