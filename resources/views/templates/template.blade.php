@@ -54,7 +54,7 @@
                             <a class="nav-link" href="{{url("books")}}">Books</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{url("genders")}}">Genders</a>
+                            <a class="nav-link" href="{{url("genders")}}">Genres</a>
                         </li>
                         <a class="btn btn-danger" href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();"> {{ __('Logout') }} </a>
                         <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">

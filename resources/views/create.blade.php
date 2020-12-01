@@ -19,7 +19,7 @@
     <input type="text" class="form-control" name="title" id="title" value="{{$book->title ?? ''}}" placeholder="Title" required>    
   </div>
 
-  <label for="exampleInputEmail1">Gender</label>
+  <label for="exampleInputEmail1">Genre</label>
   <select class="form-control" name="id_gender" id="id_gender" required>
   
   @foreach ($genders as $gender)

@@ -1,7 +1,7 @@
 @extends('templates.template')
 
 @section('content')
-<h1 class="text-center">Genders</h1> <hr>
+<h1 class="text-center">Genres</h1> <hr>
 
 <div class="text-center"><a href="{{url("genders/create")}}"><button class="btn btn-success">Create</button></a><div>
 <br>

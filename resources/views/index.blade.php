@@ -12,7 +12,7 @@
     <tr>
       <th scope="col">Title</th>
       <th scope="col">Pages</th>
-      <th scope="col">Gender</th>
+      <th scope="col">Genre</th>
       <th scope="col">Price</th>
       <th scope="col">Action</th>
     </tr>
